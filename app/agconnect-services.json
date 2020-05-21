@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"890052000000001781",
+		"product_id":"736430079244424904",
+		"client_id":"351452982279144512",
+		"client_secret":"8EC21A6AA7874958B1C327C38A3555DD56161FF7DAE0D4E08FC53E1D1714476E",
+		"app_id":"102140737",
+		"package_name":"com.hmscore.huaweimapintegation",
+		"api_key":"CV7RFd+cmGNtSovRbQjKX95d6nMySlCWvD+vbuUE/HmwZ3TLRseJGMznszPapJU8QvDBLwsqGZDI+mQtc6yynj+vQIT1"
+	},
+	"configuration_version":"1.0"
+}
